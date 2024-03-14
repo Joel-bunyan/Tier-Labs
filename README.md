@@ -10,4 +10,8 @@ Thus, we have to acknowledge the importance of diversity of thought in the funda
 Education system, in the first place, was created to inculcate this habit of thinking into children. They would be taught to think about the fundamental flaws of the society and find ways to overcome them (and hopefully make some money in the process), but this system changed into a "employee-producing" factory that produces at mass, workers with uniform skills and ideas. 
 This system might be a direct result of industrialization in the 19th and the 20th century and the need for huge workforce. The main objective of schools then, was to produce obedient, uniform minded and hardworking laborers.
 
-However, now it's completely different due to the introduction of various technologies for automating various repetitive tasks. Moreoever, AI is furthermore, posing a serious threat to many jobs. 
+However, now it's completely different due to the introduction of various technologies for automating various repetitive tasks. Moreoever, AI is furthermore, posing a serious threat to many jobs. We can be sure that the one role, AI can never automate is real world problem identification and solving, due to its lack of access to the physical world(atleast for now). 
+
+The moral of the story is that, critical thinking and problem solving are very important and that we should promote them in the education system not only for employment or enterpreunership, but also because they are the fundamental pre-requisites of a democracy. 
+
+
