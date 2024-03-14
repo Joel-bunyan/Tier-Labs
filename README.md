@@ -17,6 +17,6 @@ The moral of the story is that, critical thinking and problem solving are very i
 The Indian Education System however, is very much farther off from this ideal narrative. Textbook plays the most vital role in the functioning of the system. Students are made to memorize the theoretical narratives, and their ability to do so, is measured through the grading system, which is very much overrated throughout the country. 
 
 However, I may have found the most important factor for this failure and may have come up with the solution, and this just might be the best time to implement this solution.
-And over the next few months, i will be implementing the solution at this specific site. 
+And over the next few months, i will be implementing it at this specific site. 
 
 We are in the most relevant time to bring this reform. The Indian Education Reform!!! God bless India.
